@@ -22,8 +22,12 @@ This PDF contains all the screenshots and code related to **Task 1**, including 
 ### `Task 2&3_Supriya_Kumari.pdf`
 This PDF contains answers and analysis for **Task 2** and **Task 3**.
 
+### `PPT_Supriya_Kumari_Data_Analytics.pdf`
+This PDF includes the PowerPoint presentation for the tasks, summarizing the analysis, findings, and key insights.
+
 ## How to Use
 1. Download the `cleaned_hospital_data.xlsx` file and review the pivot tables and dashboard for a comprehensive analysis.
 2. Use `da1.py` for running the Python-based analysis on the dataset from `hospital_data.csv`.
-3. Review the associated PDFs (`Task 1_Supriya_Kumari.pdf` and `Task 2&3_Supriya_Kumari.pdf`) for detailed explanations and results of the tasks.
+3. Review the associated PDFs (`Task 1_Supriya_Kumari.pdf`, `Task 2&3_Supriya_Kumari.pdf`, and `PPT_Supriya_Kumari_Data_Analytics.pdf`) for detailed explanations and results of the tasks.
+
 
