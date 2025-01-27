@@ -1,0 +1,7 @@
+Patient ID,Age,Diagnosis,Length of Stay,Hospital Department
+1001,45.0,Pneumonia,5,Pulmonology
+1002,32.0,Fracture,3,Orthopedics
+1003,67.0,Hypertension,7,Cardiology
+1004,28.0,Appendicitis,4,General Surgery
+1005,,Hypertension,6,Cardiology
+1006,67.0,Hypertension,7,Cardiology
